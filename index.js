@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", e => {
-  document.querySelector("#hidden-div").innerHTML = "302";
+  document.querySelector("#hidden-div").innerText = "301";
 })
